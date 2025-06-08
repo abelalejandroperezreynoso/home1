@@ -7,7 +7,7 @@ import { UrlConfigModal } from '../components/UrlConfigModal';
 import { LoginPanel } from '../components/LoginPanel';
 
 const LINKS = {
-  DIFUSION: 'https://astounding-crostata-aca5ed.netlify.app',
+  DIFUSION: 'https://incidentes-ruby.vercel.app',
   EVALUACION_RIESGOS: 'https://fascinating-sundae-ab4c37.netlify.app'
 };
 
