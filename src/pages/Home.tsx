@@ -8,7 +8,7 @@ import { LoginPanel } from '../components/LoginPanel';
 
 const LINKS = {
   DIFUSION: 'https://incidentes-ruby.vercel.app',
-  EVALUACION_RIESGOS: 'https://fascinating-sundae-ab4c37.netlify.app'
+  EVALUACION_RIESGOS: 'https://evaluacion1-sigma.vercel.app'
 };
 
 function Home() {
