@@ -7,7 +7,7 @@ import { UrlConfigModal } from '../components/UrlConfigModal';
 import { LoginPanel } from '../components/LoginPanel';
 
 const LINKS = {
-  DIFUSION: 'https://incidentes-ruby.vercel.app',
+  DIFUSION: 'https://incidentes-three.vercel.app',
   EVALUACION_RIESGOS: 'https://evaluacion1-sigma.vercel.app'
 };
 
